@@ -2,10 +2,10 @@
        KONFIGURASI ISI WEBSITE — edit bagian ini sesuai kebutuhanmu
        ====================================================================== */
 const CONFIG = {
-    loaderLabel: "memuat kenangan...",
-    heroEyebrow: "untuk kamu,",
-    heroTitleMain: "Selamat",
-    heroTitleEmphasis: "Hari Bahagia",
+    loaderLabel: "hari bahagia mu",
+    heroEyebrow: "untukmu",
+    heroTitleMain: "happy",
+    heroTitleEmphasis: "birthday",
     heroSub: "ada beberapa hal yang ingin aku sampaikan, geser pelan-pelan ya.",
 
     // Setiap objek di sini akan jadi satu "kertas sobek" berisi pesan.
@@ -13,19 +13,19 @@ const CONFIG = {
     memories: [
         {
             date: "01",
-            text: "Hari ini aku cuma mau bilang, aku bersyukur banget ada kamu. Hal-hal kecil yang kita lewati bareng, ternyata artinya besar buat aku.",
+            text: "Selamat ulang tahun, Kaka 🤍🎂 Hari ini adalah hari spesialnya Kaka. Semoga Kaka selalu diberikan kesehatan, kebahagiaan, dan dimudahkan dalam setiap langkahnya.",
             style: "lined",
             tilt: "-2deg"
         },
         {
             date: "02",
-            text: "Setiap cerita yang kamu ceritain, aku selalu inget. Karena buat aku, kamu bukan cuma orang biasa.",
+            text: "Dede bersyukur bisa mengenal Kaka. Terima kasih sudah menjadi seseorang yang berarti buat Dede. Semoga semua harapan dan impian Kaka bisa tercapai.",
             style: "gingham",
             tilt: "2.5deg"
         },
         {
             date: "03",
-            text: "Semoga hari ini jadi salah satu hari yang bikin kamu senyum terus. Kamu pantas dapetin itu.",
+            text: "Selamat ulang tahun, Kaka. Semoga hari ini dan hari-hari berikutnya selalu dipenuhi kebahagiaan. 🤍✨ -dari Dede, yang selalu mendoakan Kaka.",
             style: "lined",
             tilt: "-1.5deg"
         }
